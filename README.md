@@ -20,4 +20,4 @@ Langage solicité:
 
 # Aperçu
 
-![screenshot du site](./assets/maquette.png)
+![screenshot du site](./screen.png)
