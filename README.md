@@ -16,7 +16,7 @@ Langage solicité:
 
 # Visiter
 
-[Voir le Rendu](https://nerion-1337.github.io/Fisheye-OCR/](https://www.figma.com/file/XYplrUx19n8RhQKCYcYiEk/Untitled?node-id=0-1&t=Emm20m7TfgSK0TaR-0))
+[Voir le Rendu](https://www.figma.com/file/XYplrUx19n8RhQKCYcYiEk/Untitled?node-id=0-1&t=Emm20m7TfgSK0TaR-0)
 
 # Aperçu
 
