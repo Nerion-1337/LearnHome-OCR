@@ -4,17 +4,15 @@ Project de formation chez OpenClassRoom.
 
 Langage solicité:
 
-- HTML
-- CSS
-- SASS
-- JAVASCRIPT
+- Aucun
 
 # Objectif
 
-- Maitrise site dynamique
-- Communication avec API
-- Site optimiser pour l'accessibilité
--Vérification code par eslintrc
+- Définir besoins d'une app
+- Réalisation Diagramme cas d'usage
+- Maitrise figma et réalisation maquette 
+- Réalisation user stories
+- Réalisation kanban
 
 # Visiter
 
