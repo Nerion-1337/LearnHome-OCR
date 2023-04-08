@@ -23,4 +23,4 @@ Project de formation chez OpenClassRoom.
 
 # Aperçu
 
-![screenshot du site](./screen.png)
+![screenshot du site](./maquette.png)
